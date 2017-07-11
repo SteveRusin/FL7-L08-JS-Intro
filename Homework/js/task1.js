@@ -7,4 +7,4 @@ var res1;
 var res2;
 res1 = (-b + Math.sqrt(D)) / (2 * a);
 res2 = (-b - Math.sqrt(D)) / (2 * a);
-console.log('The equation "' + a + 'x2 + ' + b + 'x + ' + c + ' = 0" has two solutions: res1= ' + res1 + ' and res2= ' + res2 + '.');
+console.log('The equation "' + a + 'x2 + ' + b + 'x + ' + c + ' = 0" has two solutions: x1= ' + res1 + ' and x2= ' + res2 + '.');
